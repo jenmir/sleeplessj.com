@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Sleepless in San Francisco</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="dreamLogic" />
+<meta name="description" content=" " />
+<link rel="stylesheet" href="style1.css" type="text/css" /><!-- change this to the title you want to appear in browser title bar --></head>
+<body>
+<div id="wrap">
+<div id="header"><!-- here is your page content -->
+<div id="content">
+<h3>Sleepless j spanner tool<br /></h3>
+
+<p style="color: rgb(255, 204, 51);"><br />
+Friends, bands, venues, hangs.</p><a href="http://jamthebay.com/"></a><p style="color: rgb(255, 204, 51);"><a href="http://jamthebay.com">Jam The Bay</a> - jam session review site for SF Bay Area</p><p style="color: rgb(255, 204, 51);"><a href="http://cigarbarandgrill.com">Cigar Bar</a>, SF</p><p style="color: rgb(255, 204, 51);"><a href="http://discovolanteoakland.com">Disco Volante</a>, Oakland</p>
+<p style="color: rgb(255, 204, 51);"><a href="http://lennonstudios.com">Lennon Studios</a>, SF
+- i'm here quite a lot, actually</p>
+
+<p style="color: rgb(255, 204, 51);"><a href="http://www.facebook.com/pages/Cheers-of-Pacifica/101872043185526">Cheers,
+Pacifica </a>- where everybody knows your name...</p>
+<p style="color: rgb(255, 204, 51);"><a href="http://amprehearsal.com">Amp Studios</a>, North
+Hollywood - if you are stuck in NOHO and need to rehearse, this is the
+BEST, I was sooo impressed!</p>
+<p style="color: rgb(255, 204, 51);"><a href="http://carmenlemoine.com">Carmen Lemoine</a>, my
+flute guru.</p><p style="color: rgb(255, 204, 51);"><a href="http://christinamichelle.com/">Christina Michelle,</a> aka "Chick Jagger" </p><p style="color: rgb(255, 204, 51);"><a href="http://reverbnation.com/redwoodwires">Redwood Wires</a>, pop-rock in SF, I&nbsp;sub on sax for them</p><p style="color: rgb(255, 204, 51);"><a href="http://www.facebook.com/theminksband">The Minks</a>, Female Kinks Tribute in SF -&nbsp;shared some shows</p><p style="color: rgb(255, 204, 51);"><a href="http://somethumb.com/">Somethumb Web Design</a> - Scotty and Stephen are old friends</p><p style="color: rgb(255, 204, 51);">Link to my <a href="http://jennifermir.com">"legit" site</a>.&nbsp;</p>
+
+<p style="color: rgb(255, 204, 0);">&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; </p>
+<!-- end page content -->
+</div>
+<!-- end header -->
+</div>
+<div id="navcontainer">
+<ul id="navlist">
+<!-- put your navigation links and text here -->
+<li><a href="index.html">start ◉ </a></li>
+<li><a href="projects.html">schemes ◉ </a></li>
+<li><a href="calendar.html">scenes ◉ </a></li>
+<li><a href="sights.html">sights ◉ </a></li>
+<li><a href="sounds.html">sounds ◉ </a></li>
+<li><a href="blog.html">spills ◉ </a></li>
+<li><a href="contact.html">summon ◉ </a></li>
+<li><a href="links.html">span ◉ </a></li>
+<!-- end navigation -->
+</ul>
+</div>
+<div id="footer">
+<p>Web design
+by dreamLogic</p>
+</div>
+</div>
+</body></html>

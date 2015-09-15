@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Sleepless J - Calendar</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="dreamLogic" />
+<meta name="description" content=" " />
+<link rel="stylesheet" href="style1.css" type="text/css" /><!-- change this to the title you want to appear in browser title bar --></head>
+<body>
+<div id="wrap">
+<div id="header"><!-- here is your page content -->
+<div id="content">
+<h3>Sleepless j - calendar</h3>
+
+<p style="color: rgb(255, 204, 51);"><small><span style="font-weight: bold;">First
+Wednesdays @ Cheers, Pacifica, with</span><a style="font-weight: bold;" href="http://myspace.com/millvilleplains"> Millville Plains</a><br />Join us for an
+evening of original alt-rock/americana with some choice covers mixed
+in. &nbsp;Cheers is located in Linda Mar shopping center behind
+"Taco Bell Beach".&nbsp;</small></p>
+
+
+
+
+<p style="color: rgb(255, 204, 0);"><small><span style="font-weight: bold;">Fri Mar 18, 2011</span><br />with <a href="http://www.conjuntopicante.com">Conjunto Picante</a> @ Disco Volante, 347 14th, Oakland.&nbsp;<br /><span style="font-weight: bold;"></span></small></p><p style="color: rgb(255, 204, 0);"><small><span style="font-weight: bold;">Sat
+Mar 19, 2011</span><br />with <a href="http://christinamichelle.com/">Christina Michelle
+Project</a>, @ <a href="http://lennonstudios.com/">Lennon
+Studios</a>, SF. Short set for an art show by Carole Lennon,
+~5pm. &nbsp;</small></p>
+<p style="color: rgb(255, 204, 0);"><small><span style="font-weight: bold;"> Sat Apr 23, 2011</span><br />with <a href="http://chickjagger.com">Chick Jagger &amp; the Sticky Fingers</a> (Rolling Stones&nbsp;<br />trib). Share bill with Ticket to Ride (Beatles trib).</small></p>
+<!-- end page content -->
+</div>
+<!-- end header -->
+</div>
+<div id="navcontainer">
+<ul id="navlist">
+<!-- put your navigation links and text here -->
+<li><a href="index.html">start ◉ </a></li>
+<li><a href="projects.html">schemes ◉ </a></li>
+<li><a href="calendar.html">scenes ◉ </a></li>
+<li><a href="sights.html">sights ◉ </a></li>
+<li><a href="sounds.html">sounds ◉ </a></li>
+<li><a href="blog.html">spills ◉ </a></li>
+<li><a href="contact.html">summon ◉ </a></li>
+<li><a href="links.html">span ◉ </a></li>
+<!-- end navigation -->
+</ul>
+</div>
+<div id="footer">
+<p>Web design
+by dreamLogic</p>
+</div>
+</div>
+</body></html>

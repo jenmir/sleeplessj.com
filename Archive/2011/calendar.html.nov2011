@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Sleepless J - Calendar</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="dreamLogic" />
+<meta name="description" content=" " />
+<link rel="stylesheet" href="style1.css" type="text/css" /><!-- change this to the title you want to appear in browser title bar --></head>
+<body>
+<div id="wrap">
+<div id="header"><!-- here is your page content -->
+<div id="content">
+<h3>Sleepless j - calendar</h3>
+
+
+
+
+
+
+<p style="color: rgb(255, 204, 0);"><small><span style="font-weight: bold;">First
+Wednesdays @ Cheers, Pacifica, with</span><a style="font-weight: bold;" href="http://myspace.com/millvilleplains"> Millville Plains</a><br />Join us for an
+evening of original alt-rock/americana with some choice covers mixed
+in. &nbsp;Cheers is located in Linda Mar shopping center behind
+"Taco Bell Beach".&nbsp;<span style="font-weight: bold;"></span><span style="font-weight: bold;"><br /></span></small></p><p style="color: rgb(255, 204, 0);"><small>Sat Oct 15, 2011<br />with <a href="http://conjuntopicante.com">Conjunto Picante</a>, private event, SF</small></p><p style="color: rgb(255, 204, 0);"><small>Fri Oct 21, 2011<br />with <a href="http://chickjagger.com">Chick Jagger and Sticky Fingers,</a> <a href="http://www.rock-it-room.com/">Rockit Room</a>, 406 Clement, SF. With Mojo Risin (Doors Tribute from LA), Just Cream (cream/clapton tribute)</small></p><p style="color: rgb(255, 204, 0);"><small>Thu Dec 8, 2011<br />with The Slippery Slope, <a href="http://www.starryploughpub.com">Starry Plough</a>, 3101 Shattuck, Berkeley</small></p><p style="color: rgb(255, 204, 0);"><small>Fri Dec 9, 2011<br />with <a href="http://reverbnation.com/theslipperyslope">The Slippery Slope,</a> 50 Mason, SF</small></p><p style="color: rgb(255, 204, 0);"><small><a href="http://sleeplessj.com/calendar_history.html">calendar archive</a><br /></small></p>
+</div>
+<!-- end header -->
+</div>
+<div id="navcontainer">
+<ul id="navlist">
+<!-- put your navigation links and text here -->
+<li><a href="index.html">start ◉ </a></li>
+<li><a href="projects.html">schemes ◉ </a></li>
+<li><a href="calendar.html">scenes ◉ </a></li>
+<li><a href="sights.html">sights ◉ </a></li>
+<li><a href="sounds.html">sounds ◉ </a></li>
+<li><a href="blog.html">spills ◉ </a></li>
+<li><a href="contact.html">summon ◉ </a></li>
+<li><a href="links.html">span ◉ </a></li>
+<!-- end navigation -->
+</ul>
+</div>
+<div id="footer">
+<p>Web design
+by dreamLogic</p>
+</div>
+</div>
+</body></html>
