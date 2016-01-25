@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Sleepless J - Calendar</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="dreamLogic" />
+<meta name="description" content=" " />
+<link rel="stylesheet" href="style1.css" type="text/css" /><!-- change this to the title you want to appear in browser title bar --></head>
+<body>
+<div id="wrap">
+<div id="header"><!-- here is your page content -->
+<div id="content">
+<h3>Sleepless j - calendar</h3><br /><p style="color: rgb(255, 204, 0);"><small>Aug 1 - Chick Jagger, Don Quixote's, Felton<br />Aug 2 - Zanzibar, Marjikeze-Fest<br />Aug 13 - Private Event<br />Aug 15 - Latin Expressions, Monaghans, Oakland<br />Aug 20 - Latin Expressions, The Bistro, Hayward<br />Sep 10 - The Stereo Eclipse, Milk Bar, SF<br />Sep 20 - Latin Expressions, Dias de las Americas, Oakland<br />Sep 26 - Latin Expressions, The Bistro, Hayward<br />Oct 11 - Chick Jagger, Neck of the Woods, SF<br />Oct 17 - Chick Jagger, Starry Plough, Berkeley</small></p><small>&nbsp;</small><p style="color: rgb(255, 204, 0);"><small><a href="calendar_history.html">calendar archive</a><br /></small></p>
+</div>
+<!-- end header -->
+</div>
+<div id="navcontainer">
+<ul id="navlist">
+<!-- put your navigation links and text here -->
+<li><a href="index.html">start ◉ </a></li>
+<li><a href="projects.html">schemes ◉ </a></li>
+<li><a href="calendar.html">scenes ◉ </a></li>
+<li><a href="sights.html">sights ◉ </a></li>
+<li><a href="sounds.html">sounds ◉ </a></li>
+<li><a href="blog.html">spills ◉ </a></li>
+<li><a href="contact.html">summon ◉ </a></li>
+<li><a href="links.html">span ◉ </a></li>
+<!-- end navigation -->
+</ul>
+</div>
+<div id="footer">
+<p>Web design
+by dreamLogic</p>
+</div>
+</div>
+</body></html>
